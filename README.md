@@ -1,2 +1,2 @@
 # login page
-A simple login page - HTML + CSS
+A simple login page idea/model with HTML + CSS
